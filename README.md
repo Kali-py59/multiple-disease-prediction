@@ -36,3 +36,12 @@ streamlit run app.py
 ```
 
 ## Project Structure
+multiple-disease-prediction/
+├── datasets/ # Raw CSV datasets
+├── models/ # Training scripts
+├── saved_models/ # Trained model + scaler files
+├── app.py # Main Streamlit application
+├── requirements.txt # Python dependencies
+└── README.md
+## Author
+Kalieswari
